@@ -1,4 +1,4 @@
-# Tugas 7 PBKK A
+# Tugas 6 PBKK A
 
 
 | Nama  | NRP |
